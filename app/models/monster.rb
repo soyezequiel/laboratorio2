@@ -10,4 +10,5 @@ def los_nombres_no_se_repiten
         errors.add(:name,message: "No se puede repetir los nombres de los monstruos")
     end
 end
+
 end
